@@ -1,11 +1,7 @@
 Welcome to the Documentation of DARPA ACTM Project: MIT, Brown, PNNL
 ====================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
+**darpa-actm** is a Python Library, which will generate the bias correction, based on Neural Operators and LSTM, for E3SM climate model.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
