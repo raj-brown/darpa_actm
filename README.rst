@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
+Documentation for DARPA ACTM PROJECT WORK
+==========================================
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://raj-brown-darpa-actm.readthedocs.io/en/latest/index.html
