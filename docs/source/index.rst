@@ -1,5 +1,5 @@
-Welcome to the Documentation of DARPA ACTM Project
-===================================================
+Welcome to the Documentation of DARPA ACTM Project: MIT, Brown, PNNL
+====================================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
